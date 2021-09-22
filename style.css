@@ -60,6 +60,9 @@ body {
     p {
       font-size: 13px;
     }
+      button {
+          width: 300px;
+          font-size: 30px;
     .prediction {
       font-size: 20px;
     }
